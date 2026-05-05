@@ -1,0 +1,9 @@
+# Core (stubs only ship today)
+# Real deps will be uncommented as features land:
+# sentence-transformers>=2.5
+# pypdf>=4.0
+# python-docx>=1.1
+# numpy
+# rich
+
+pytest>=7.0
